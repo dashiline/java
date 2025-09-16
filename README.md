@@ -1,6 +1,20 @@
 # java
 PHP and Java are two different programming languages, and there are significant differences between them in multiple aspects. The following is a detailed introduction for you:
 
+[https://m-91w.my](https://m-91w.my)
+
+[https://m-mrds.my](https://m-mrds.my)
+
+[https://mob-91w.my](https://mob-91w.my)
+
+[https://wap-heiliao.my](https://wap-heiliao.my)
+
+[https://mob-heiliao.my](https://mob-heiliao.my)
+
+[https://wap-91w.my](https://wap-91w.my)
+
+[https://wap-mrds.my](https://wap-mrds.my)
+
 1. Language types and compilation methods
 PHP: It is a server-side scripting language. It belongs to the category of weakly typed and dynamically typed languages. It doesn't require code compilation and can be directly interpreted and executed, which makes the development and debugging process more convenient.
 
